@@ -1,5 +1,6 @@
 # EE511project5
 Optimization and Sampling via MCMC
+
 [MCMC for Sampling]
 The random variable X has a mixture distribution: 60% in a Beta(1,8) distribution and 40% in a Beta(9,1)
 distribution.
